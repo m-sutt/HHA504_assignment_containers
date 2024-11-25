@@ -50,6 +50,6 @@ if __name__ == "__main__":
 -  GCP was a friendly UX design and more simple. If I ran into an issue it was a relatively easy fix.
 -  Azure was also simply but was more stuck a few times and failed to deploy it in multiple instances.
 -  Both had different configure steps and some I clicked around and played with it until it works.
--  I ususally run into a network or permission issues
+-  The most frequent error that happened was my own mistyping
 -  When I ran into a coding issue it was related to the pip install or finding the correct file path.
 -  
