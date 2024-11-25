@@ -1,4 +1,4 @@
-<img width="1310" alt="1" src="https://github.com/user-attachments/assets/313885f9-da3c-4140-9668-ebbe40f584b2"># HHA504_assignment_containers
+# HHA504_assignment_containers
 
 ## Step 1: created a flask app
 - Created new directory for project
