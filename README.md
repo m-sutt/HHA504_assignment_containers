@@ -43,6 +43,9 @@ if __name__ == "__main__":
 
 ## Step 4: Deploy to Azure Container Apps (Optional)
 -  Setup Azure
+<img width="821" alt="1" src="https://github.com/user-attachments/assets/589701db-1911-49cf-8a0c-280b71346255">
+<img width="413" alt="2" src="https://github.com/user-attachments/assets/3fc13e6c-8a53-4984-b234-8442264054d3">
+
 -  Deploy application
 -  Configure port settings
 
