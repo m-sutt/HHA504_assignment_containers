@@ -55,4 +55,4 @@ if __name__ == "__main__":
 -  Both had different configure steps and some I clicked around and played with it until it works.
 -  The most frequent error that happened was an error I couldn't get pass from Azure is the registry login server
 -  When I ran into a coding issue it was related to the pip install or finding the correct file path.
--  
+
